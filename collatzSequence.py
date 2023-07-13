@@ -13,6 +13,13 @@ def collatz(number):
         print(3*n+1)
         nam=3*n+1
 
-nam=int(input("Enter any integer- "))
-while nam!=1:
-    collatz(nam)
+try:
+    nam=int(input("Enter any integer- "))
+    if nam>0:
+        while nam!=1:
+            collatz(nam)
+    else:
+        print("enter value greater than 0")
+except:
+    print("You provided an integer or something else?")
+
