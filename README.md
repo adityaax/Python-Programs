@@ -1,3 +1,4 @@
 # python programs
 
-Here I uploads programs written in python programming language.
+😎 Let's automate the boring stuff with python.
+😴 Here you will get python programs.
