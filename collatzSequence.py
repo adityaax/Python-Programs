@@ -1,3 +1,4 @@
+#The Collatz Sequence is one of the most famous unsolved problems in mathematics. Search about it
 def even(number):
     if number%2==0:
         return True
