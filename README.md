@@ -4,5 +4,5 @@
 
 😴 Here you will get python programs :helicopter:
 
-:artificial_satellite: Programming is hard until you starts :flying_saucer:
+:artificial_satellite:  :flying_saucer:
 
